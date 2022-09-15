@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-root-folder-uri",
+	"name": "Root Folder URI",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin creates and handles a new file URI which roots from a specific folder.",
+	"author": "James Yu",
+	"authorUrl": "https://jamesyu.me",
+	"isDesktopOnly": false
+}
